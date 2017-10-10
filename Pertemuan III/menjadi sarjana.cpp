@@ -13,9 +13,7 @@ int main () {
 	cout << "8. lulus Sekolah Dasar"<<endl;
 
 
-
 	cout << "===============================" <<endl;
-
 
 
 	cout << "1. Daftar Sekolah Menengah Pertama"<<endl;
@@ -28,7 +26,6 @@ int main () {
 	cout << "===============================" <<endl;
 
 
-
 	cout << "1. Daftar Sekolah Menengah Kejuruan"<<endl;
 	cout << "2. masuk kelas I SMK"<<endl;
 	cout << "3. mausk kelas II SMK"<<endl;
@@ -38,7 +35,6 @@ int main () {
 
 	cout << "===============================" <<endl;
 
-	
 
 	cout << "Daftar Perguruan Tinggi"<<endl;
 	cout << "Masuk semester I"<<endl;
